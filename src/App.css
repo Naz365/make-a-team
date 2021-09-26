@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+.App {
+  
+  font-size: large;
+  font-weight: 600;
+  color: lightgreen;
+  
+
+}
+
+.header{
+  background-color: darkgrey;
+  border: darkseagreen 2px solid;
+}
