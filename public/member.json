@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Kazi Emad",
+    "img": " https://images.unsplash.com/photo-1508341591423-4347099e1f19?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "student_Id": 19301,
+    "post": "President",
+    "dept": "CSE",
+    "current_semester": "8th",
+    "salary": 10000
+  },
+  {
+    "name": "Fahad",
+    "img": " https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=387&q=80 ",
+    "student_Id": 19302,
+    "post": "Vice President",
+    "dept": "CSE",
+    "current_semester": "8th",
+    "salary": 9500
+  },
+  {
+    "name": "Rifad",
+    "img": " https://images.unsplash.com/photo-1514794749374-fb67509dbb7f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80 ",
+    "student_Id": 19303,
+    "post": "General manager",
+    "dept": "CSE",
+    "current_semester": "8th",
+    "salary": 9200
+  },
+  {
+    "name": "Fahim",
+    "img": " https://images.unsplash.com/photo-1618886614638-80e3c103d31a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=370&q=80 ",
+    "student_Id": 19304,
+    "post": "Secretary",
+    "dept": "CSE",
+    "current_semester": "7th",
+    "salary": 9000
+  },
+  {
+    "name": "Jonaed",
+    "img": " https://images.unsplash.com/photo-1626990468850-4c34de14b004?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=764&q=80 ",
+    "student_Id": 19305,
+    "post": "Member",
+    "dept": "CSE",
+    "current_semester": "7th",
+    "salary": 8800
+  },
+  {
+    "name": "Jahid",
+    "img": "https://images.unsplash.com/photo-1545184180-25d471fe75eb?ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDI2fGFldTZyTC1qNmV3fHxlbnwwfHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "student_Id": 19306,
+    "post": "Member",
+    "dept": "CSE",
+    "current_semester": "7th",
+    "salary": 8800
+  },
+  {
+    "name": "Soporna",
+    "img": " https://images.unsplash.com/photo-1632491093482-8370c2bf84c8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "student_Id": 19307,
+    "post": "Member",
+    "dept": "CSE",
+    "current_semester": "7th",
+    "salary": 8800
+  },
+  {
+    "name": "Sushmita",
+    "img": " https://images.unsplash.com/photo-1606081461437-108abe922780?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80",
+    "student_Id": 19308,
+    "post": "Member",
+    "dept": "CSE",
+    "current_semester": "7th",
+    "salary": 8800
+  },
+  {
+    "name": "Nazmul",
+    "img": "https://images.unsplash.com/photo-1508908324153-d1a219719814?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80 ",
+    "student_Id": 19309,
+    "post": "Vice President",
+    "dept": "CSE",
+    "current_semester": "7th",
+    "salary": 8500
+  }
+]

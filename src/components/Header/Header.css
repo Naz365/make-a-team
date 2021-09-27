@@ -1,3 +1,16 @@
 span{
-    color: gold;
+    color:orange;
 }
+
+.header{
+    background-color: whitesmoke;
+    border-bottom: maroon 1px solid;
+  }
+  .header {
+  
+    font-size: large;
+    font-weight: 600;
+    color: #2b2b2b;
+    
+  
+  }
